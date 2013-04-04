@@ -7,3 +7,8 @@ target
 src/main/webapp/META-INF
 .idea
 *.iml
+/build
+/build.gradle.bak
+/settings.gradle
+/.gradle
+/.gitignore
