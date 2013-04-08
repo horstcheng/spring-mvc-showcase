@@ -49,7 +49,7 @@ dependencies {
     }
 
 group = 'org.springframework.samples'
-  version = '1.0.0-BUILD-SNAPSHOT'
+version = '1.0.0-BUILD-SNAPSHOT'
   
 
 description = """spring-mvc-showcase"""
