@@ -16,7 +16,7 @@ buildscript {
 }
 
 [tomcatRun, tomcatRunWar, tomcatStop]*.stopPort = 8090
-[tomcatRun, tomcatRunWar, tomcatStop]*.stopKey = 'foo'
+[tomcatRun, tomcatRunWar, tomcatStop]*.stopKey = 'God'
 tomcatRun {
     httpPort = 8080
 }
